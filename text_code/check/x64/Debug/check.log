@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\visual studio\text_code\check\Source.cpp(14,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\visual studio\text_code\check\Source.cpp(19,15): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+D:\visual studio\text_code\check\Source.cpp(22,25): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  check.vcxproj -> D:\visual studio\text_code\check\x64\Debug\check.exe

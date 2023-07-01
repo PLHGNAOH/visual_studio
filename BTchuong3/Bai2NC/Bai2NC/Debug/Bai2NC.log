@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\my-github\learn-c-plus-plus\BTchuong3\Bai2NC\Bai2NC\Source.cpp(9,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Bai2NC.vcxproj -> D:\my-github\learn-c-plus-plus\BTchuong3\Bai2NC\Debug\Bai2NC.exe
